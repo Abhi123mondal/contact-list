@@ -1,0 +1,22 @@
+body{
+    background-color: chartreuse;
+}
+#bar1{
+    text-align: center;
+}
+#bar2{
+    background-color: red;
+    position: sticky;
+    top: 10px;
+}
+#bar4{
+    background-color: red;
+    position: sticky;
+    top: 10px;
+}
+
+#bar6{
+    background-color:red;
+    position: sticky;
+    top: 10px;
+}
